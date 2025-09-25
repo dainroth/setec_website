@@ -1,3 +1,3 @@
 # React + Vite
 
--- making a website for my school lol
+- making a website for my school lol
